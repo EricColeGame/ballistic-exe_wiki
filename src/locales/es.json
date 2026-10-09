@@ -1,1 +1,425 @@
-{}
+{
+  "site": {
+    "name": "Ballistic exe Wiki",
+    "shortName": "Ballistic exe",
+    "tagline": "Guías de combate balístico de ritmo rápido y armas",
+    "description": "Explora Ballistic exe Wiki con guías detalladas de armas, consejos de juego, mecánicas de combate, actualizaciones y guías de progresión.",
+    "legalNotice": "Wiki no oficial de fans. Creada por jugadores, para jugadores."
+  },
+  "nav": {
+    "home": "Inicio",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema",
+    "guide": "Guía",
+    "trailer": "Tráiler",
+    "mechanics": "Mecánicas",
+    "community": "Comunidad",
+    "versions": "Versiones",
+    "comparison": "Comparación",
+    "controls": "Controles"
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la Wiki",
+    "activeCodes": "Códigos activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Jugar ahora",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Tabla de contenidos",
+    "nextSteps": "Próximos pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Ballistic exe Wiki",
+    "about": "Ballistic exe Wiki es un centro independiente creado por fans que cubre mecánicas de armas, guías de combate, movimiento táctico y conocimientos esenciales del juego para los jugadores.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Ballistic exe Wiki. No afiliado con los creadores del juego ni con Steam.",
+    "description": "Experiencia de combate de acción balística de ritmo rápido con armas de precisión y tácticas profundas.",
+    "playGame": "Jugar en Steam",
+    "officialDiscord": "Comunidad de Steam",
+    "officialYoutube": "Tráiler oficial",
+    "vvBuilder": "Guía de armas",
+    "beginnerGuide": "Guía para principiantes",
+    "raceGuides": "Mecánicas de combate",
+    "bossGuides": "Controles y ajustes",
+    "buildGuide": "Comparaciones",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos de servicio"
+  },
+  "guide": {
+    "overviewTitle": "Guías y tutoriales de Ballistic exe",
+    "overviewDescription": "Guías esenciales para principiantes, tutoriales del sistema y consejos de progresión para Ballistic exe."
+  },
+  "trailer": {
+    "overviewTitle": "Tráilers y adelantos de Ballistic exe",
+    "overviewDescription": "Mira los tráilers oficiales de jugabilidad, adelantos y demostraciones de Ballistic exe."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de juego de Ballistic exe",
+    "overviewDescription": "Guías detalladas sobre manejo de armas, cámara lenta, técnicas de movimiento y sistemas de combate en Ballistic exe."
+  },
+  "community": {
+    "overviewTitle": "Comunidad y debates de Ballistic exe",
+    "overviewDescription": "Conéctate con la comunidad de jugadores de Ballistic exe en Discord, Reddit y foros de debate."
+  },
+  "versions": {
+    "overviewTitle": "Versiones y actualizaciones de Ballistic exe",
+    "overviewDescription": "Sigue las notas de parches, lanzamientos de demos, versiones anteriores y el historial de versiones de Ballistic exe."
+  },
+  "comparison": {
+    "overviewTitle": "Comparaciones de Ballistic exe",
+    "overviewDescription": "Comparaciones detalladas de la jugabilidad, mecánicas y estilo de Ballistic exe frente a títulos de acción similares."
+  },
+  "controls": {
+    "overviewTitle": "Controles y ajustes de Ballistic exe",
+    "overviewDescription": "Asignación de teclas, controles para mando, optimización gráfica y configuración de rendimiento de FPS para Ballistic exe."
+  },
+  "home": {
+    "meta": {
+      "title": "Ballistic exe Wiki — Guías de armas, balística y combate táctico",
+      "description": "Wiki completa de Ballistic exe que cubre armas, accesorios, física balística, controles, compensación de retroceso y guías de la demo."
+    },
+    "hero": {
+      "eyebrow": "Juego de acción balística de ritmo rápido",
+      "title": "Ballistic exe Wiki",
+      "description": "Ballistic exe es una experiencia de combate enfocada en la acción, centrada en mecánicas balísticas, movimiento táctico y batallas intensas. Explora guías de juego, armas, mecánicas y actualizaciones.",
+      "stats": [
+        "Guías de combate",
+        "Base de datos de armas",
+        "Movimiento táctico",
+        "Mecánicas y actualizaciones"
+      ],
+      "primaryCta": "Guía para principiantes",
+      "secondaryCta": "Resumen de armas",
+      "tertiaryCta": "Tienda de Steam",
+      "videoLabel": "Tráiler oficial"
+    },
+    "updates": {
+      "title": "Últimas actualizaciones",
+      "browse": "Explorar todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Comienza aquí",
+      "title": "Tu viaje en Ballistic exe",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Domina la balística básica, el manejo de armas y los fundamentos de predicción de disparo antes de entrar al combate competitivo."
+        },
+        {
+          "number": "2",
+          "title": "Guía de movimiento cinético",
+          "description": "Aprende cancelación de deslizamiento, saltos con inercia y técnicas de ametrallamiento para mantener la velocidad y evitar el fuego enemigo."
+        },
+        {
+          "number": "3",
+          "title": "Control de retroceso y dispersión",
+          "description": "Comprende la resistencia del aire, la caída de proyectiles y las ráfagas controladas para mantener patrones de disparo precisos."
+        },
+        {
+          "number": "4",
+          "title": "Configuración de controles y teclas",
+          "description": "Optimiza la configuración de teclado en PC, la sensibilidad del ratón y las transiciones de esprint y deslizamiento para una respuesta rápida."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencias actuales",
+      "quickLinks": [
+        "Movimiento cinético",
+        "Control de retroceso",
+        "Física balística",
+        "Configuración de controles"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes",
+          "description": "Física de combate esencial, manejo de armas y consejos de supervivencia en arena para nuevos jugadores.",
+          "href": "/guide/ballistic-exe-game"
+        },
+        {
+          "badge": "Controles",
+          "title": "Controles y asignación de teclas",
+          "description": "Disposición completa de teclado y ratón, recomendaciones de sensibilidad y asignaciones de movimiento.",
+          "href": "/controls/ballistic-exe-controls"
+        },
+        {
+          "badge": "Mecánicas",
+          "title": "Mecánicas de combate y consejos",
+          "description": "Domina la inercia cinética, saltos deslizantes y la compensación de retroceso.",
+          "href": "/mechanics/ballistic-exe-tips"
+        },
+        {
+          "badge": "Demo",
+          "title": "Instalación y guía de la demo",
+          "description": "Instalación de la versión de prueba, requisitos del sistema y pruebas de rendimiento del benchmark.",
+          "href": "/guide/ballistic-exe-demo"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Ballistic exe?",
+      "paragraphs": [
+        "Ballistic exe es un shooter de acción táctica independiente de alta intensidad construido en torno a la física de proyectiles realista, movimiento basado en inercia y disparos quirúrgicos. Alejándose de las mecánicas tradicionales de hitscan, el juego simula masa de proyectiles dedicada, coeficientes de resistencia, caída de trayectoria y penetración de materiales.",
+        "Ya sea optimizando asignaciones de teclas para saltos deslizantes, dominando la compensación de retroceso en diversas armas o ajustando accesorios tácticos, nuestra wiki proporciona análisis verificados, datos técnicos y guías de combate táctico."
+      ],
+      "stats": [
+        {
+          "label": "Plataforma",
+          "value": "PC / Steam"
+        },
+        {
+          "label": "Género",
+          "value": "FPS táctico"
+        },
+        {
+          "label": "Motor",
+          "value": "3D personalizado"
+        },
+        {
+          "label": "Física",
+          "value": "Balística real"
+        },
+        {
+          "label": "Movimiento",
+          "value": "Inercia cinética"
+        },
+        {
+          "label": "Versión de prueba",
+          "value": "Demo disponible"
+        }
+      ],
+      "cta": "Explorar todas las guías"
+    },
+    "explore": {
+      "title": "Explora Ballistic exe Wiki",
+      "description": "Domina el combate táctico de alta velocidad con guías completas de armas, datos balísticos, optimización de controles y tutoriales del sistema.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía para principiantes de Ballistic exe",
+          "description": "Guía inicial paso a paso que cubre física fundamental, predicción de disparo y movimientos esenciales de arena.",
+          "href": "/guide/ballistic-exe-game",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Calibra la sensibilidad del ratón y configura las teclas de esprint y deslizamiento"
+            },
+            {
+              "label": "2",
+              "detail": "Aprende cálculos de adelanto de proyectiles en lugar de apuntar con hitscan"
+            },
+            {
+              "label": "3",
+              "detail": "Encadena deslizamientos con micro-saltos para mantener la inercia cinética durante rotaciones"
+            },
+            {
+              "label": "4",
+              "detail": "Dispara en ráfagas de 3 a 4 balas para restablecer el retroceso horizontal y la dispersión"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía de armas de Ballistic exe",
+          "description": "Arsenal completo de armas de fuego categorizado por rango de combate efectivo, velocidad de salida y penetración balística.",
+          "href": "/mechanics/ballistic-exe-gameplay",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Subfusiles",
+              "detail": "Alta cadencia de fuego y manejo ágil para flanqueos a corta distancia"
+            },
+            {
+              "label": "Rifles",
+              "detail": "Potencia versátil a media distancia con velocidad de ráfaga constante"
+            },
+            {
+              "label": "Tirador",
+              "detail": "Plataformas de precisión de alta velocidad para cubrir largas líneas de visión"
+            },
+            {
+              "label": "Escopetas",
+              "detail": "Potencia devastadora a quemarropa para asegurar pasillos estrechos"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guía de accesorios de Ballistic exe",
+          "description": "Evaluación táctica de accesorios para optimizar la estabilización del retroceso, la velocidad de apuntado y la velocidad de salida.",
+          "href": "/controls/ballistic-exe-settings",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Compensadores y cañones extendidos — Máxima reducción de retroceso y velocidad"
+            },
+            {
+              "label": "A",
+              "detail": "Empuñaduras en ángulo y miras holográficas — Rápido apuntado y estabilidad"
+            },
+            {
+              "label": "B",
+              "detail": "Culatas tácticas y silenciadores — Manejo moderado y sigilo"
+            },
+            {
+              "label": "C",
+              "detail": "Láseres básicos y apagallamas — Mejoras mínimas"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guía de munición de Ballistic exe",
+          "description": "Perfiles de calibres de munición con coeficientes de resistencia, niveles de penetración de blindaje y caída de daño.",
+          "href": "/mechanics/ballistic-exe-counter",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "9x19mm",
+              "detail": "Velocidad subsónica (360 m/s), alta cadencia, penetración de blindaje Clase 1-2"
+            },
+            {
+              "label": "5.56x45",
+              "detail": "Velocidad intermedia (850 m/s), baja resistencia, penetración Clase 3"
+            },
+            {
+              "label": "7.62x51",
+              "detail": "Alta velocidad (920 m/s), penetración superior en muros, perforación Clase 4"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guía de balística de Ballistic exe",
+          "description": "Análisis físico detallado de trayectoria de proyectiles, caída por gravedad, resistencia ambiental y penetración en muros.",
+          "href": "/mechanics/ballistic-exe-tips",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Curva balística",
+              "detail": "La velocidad disminuye con la distancia requiriendo adelantar el tiro verticalmente"
+            },
+            {
+              "label": "Penetración",
+              "detail": "Los proyectiles atraviesan láminas de metal y madera con reducción de daño"
+            },
+            {
+              "label": "Inercia",
+              "detail": "Disparar en movimiento incrementa la dispersión; frena para disparar con precisión"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guía de controles de Ballistic exe",
+          "description": "Configuración completa de entradas y accesos rápidos para movimiento estándar, esprint deslizante y utilidades de combate.",
+          "href": "/controls/ballistic-exe-controls",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Shift+Ctrl",
+              "detail": "Esprint sostenido hacia deslizamiento bajo para sortear pasajes estrechos"
+            },
+            {
+              "label": "Espacio",
+              "detail": "Escalado vertical aéreo y conservación del salto con inercia"
+            },
+            {
+              "label": "R / Clic Der",
+              "detail": "Recarga táctica de cargador y vista de precisión con mira alternativa"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Guía de la demo de Ballistic exe",
+          "description": "Configuración de instalación, especificaciones de hardware y contenido disponible en la versión de demostración.",
+          "href": "/guide/ballistic-exe-demo",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Instalación",
+              "detail": "Instalación ejecutable independiente con guardado de controles personalizados"
+            },
+            {
+              "label": "Armas",
+              "detail": "Arquetipos de armas principales disponibles en campos de tiro de práctica"
+            },
+            {
+              "label": "Requisitos",
+              "detail": "Canal DirectX 11/12 optimizado que requiere 8 GB de RAM y GPU dedicada"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Guía de actualizaciones de Ballistic exe",
+          "description": "Notas de parches, optimizaciones de motor, lanzamientos de hoja de ruta y anuncios de la comunidad.",
+          "href": "/guide/ballistic-exe-steam",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "v1.2.0",
+              "detail": "Netcode de proyectiles perfeccionado, sondeo de entrada sub-frame y ajustes de retroceso"
+            },
+            {
+              "label": "v1.1.4",
+              "detail": "Optimización de DirectX, reducción de tirones en carga de recursos en SSD"
+            },
+            {
+              "label": "v1.0.8",
+              "detail": "Perfiles de personalización de teclas y compatibilidad con pantallas de alta frecuencia"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "description": "Respuestas rápidas a preguntas comunes sobre la jugabilidad, mecánicas y configuración de Ballistic exe.",
+      "items": [
+        {
+          "question": "¿Qué es Ballistic exe?",
+          "answer": "Ballistic exe es un shooter táctico indie de ritmo rápido centrado en la física realista de proyectiles, movimiento cinético con inercia y manejo preciso de armas en lugar de combate arcade hitscan."
+        },
+        {
+          "question": "¿Cómo funciona el sistema balístico en Ballistic exe?",
+          "answer": "Cada bala en Ballistic exe cuenta con masa de proyectil dedicada, velocidad de salida, desaceleración por resistencia y penetración de materiales. En distancias largas, los jugadores deben adelantar el disparo y compensar la gravedad."
+        },
+        {
+          "question": "¿Dónde puedo descargar y jugar a Ballistic exe?",
+          "answer": "Puedes descargar la demo de Ballistic exe y acceder a los detalles del lanzamiento del juego completo a través de Steam y canales oficiales de distribución indie."
+        },
+        {
+          "question": "¿Cuáles son los ajustes de PC recomendados para Ballistic exe?",
+          "answer": "Para una respuesta óptima de control y fluidez en Ballistic exe, se recomienda un procesador Intel i5 / Ryzen 5, 16 GB de RAM y una GPU GTX 1060 / RTX 2060 en un SSD con alta tasa de refresco."
+        },
+        {
+          "question": "¿Admite Ballistic exe asignación de teclas personalizada y mandos?",
+          "answer": "Sí, Ballistic exe permite reasignar teclado y ratón para esprint, deslizamiento y utilidades de combate, además de soporte para mandos estándar de doble palanca."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para dominar Ballistic exe?",
+      "description": "Desde el dominio del retroceso de armas hasta estrategias avanzadas de combate táctico, nuestra wiki comunitaria te ofrece guías actualizadas.",
+      "primary": "Leer la guía para principiantes",
+      "secondary": "Jugar en Steam"
+    }
+  }
+}
