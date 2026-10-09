@@ -6,7 +6,18 @@
     "description": "Explore Ballistic exe Wiki with detailed weapon guides, gameplay tips, combat mechanics, updates, and progression guides.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "home": "Home",
+    "menu": "Menu",
+    "toggleTheme": "Toggle Theme",
+    "guide": "Guide",
+    "trailer": "Trailer",
+    "mechanics": "Mechanics",
+    "community": "Community",
+    "versions": "Versions",
+    "comparison": "Comparison",
+    "controls": "Controls"
+  },
   "home": {
     "meta": {
       "title": "Ballistic exe Wiki — Weapons, Ballistics & Tactical Combat Guides",
@@ -347,7 +358,6 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -378,10 +388,38 @@
     "officialYoutube": "Official Trailer",
     "vvBuilder": "Weapons Guide",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Combat Guides",
-    "bossGuides": "Weapons Database",
-    "buildGuide": "Tactics Guide",
+    "raceGuides": "Combat Mechanics",
+    "bossGuides": "Controls & Settings",
+    "buildGuide": "Comparisons",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
+  },
+  "guide": {
+    "overviewTitle": "Ballistic exe Guides & Walkthroughs",
+    "overviewDescription": "Essential beginner guides, system walkthroughs, and progression tips for Ballistic exe."
+  },
+  "trailer": {
+    "overviewTitle": "Ballistic exe Trailers & Teasers",
+    "overviewDescription": "Watch official gameplay trailers, reveal teasers, and demo showcases for Ballistic exe."
+  },
+  "mechanics": {
+    "overviewTitle": "Ballistic exe Gameplay Mechanics",
+    "overviewDescription": "In-depth guides on weapon handling, slow motion, movement tech, and combat systems in Ballistic exe."
+  },
+  "community": {
+    "overviewTitle": "Ballistic exe Community & Discussions",
+    "overviewDescription": "Connect with the Ballistic exe player community across Discord, Reddit, and discussion hubs."
+  },
+  "versions": {
+    "overviewTitle": "Ballistic exe Versions & Updates",
+    "overviewDescription": "Track update patch notes, demo releases, legacy builds, and version history for Ballistic exe."
+  },
+  "comparison": {
+    "overviewTitle": "Ballistic exe Comparisons",
+    "overviewDescription": "Detailed comparisons of Ballistic exe gameplay, mechanics, and style against similar action titles."
+  },
+  "controls": {
+    "overviewTitle": "Ballistic exe Controls & Settings",
+    "overviewDescription": "Keybinds, controller layout, graphic optimization, and FPS performance settings for Ballistic exe."
   }
 }
