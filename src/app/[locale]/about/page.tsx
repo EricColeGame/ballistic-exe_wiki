@@ -3,8 +3,8 @@ import { LegalPage } from "@/components/legal-page";
 export default function AboutPage() {
   return (
     <LegalPage title="About">
-      <p>VV Ultimatum Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.</p>
-      <p>The layout, navigation, article cards, and detail format are reproduced from the target VV: ULTIMATUM wiki pages requested for this implementation.</p>
+      <p>Ballistic exe Wiki is an independent fan-built guide hub covering weapon mechanics, tactical combat, progression paths, and essential gameplay knowledge for players.</p>
+      <p>Our mission is to provide clean, accurate, and accessible walkthroughs to help players master high-velocity ballistic combat.</p>
     </LegalPage>
   );
 }

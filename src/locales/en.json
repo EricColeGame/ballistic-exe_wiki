@@ -1,9 +1,9 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to My Seafood Stand on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
+    "name": "Ballistic exe Wiki",
+    "shortName": "Ballistic exe",
+    "tagline": "Fast-Paced Ballistic Action Combat Guides & Weapons",
+    "description": "Explore Ballistic exe Wiki with detailed weapon guides, gameplay tips, combat mechanics, updates, and progression guides.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
@@ -30,19 +30,19 @@
       "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "My Seafood Stand",
-      "description": "Master your restaurant in My Seafood Stand on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "eyebrow": "Fast-Paced Ballistic Action Game",
+      "title": "Ballistic exe Wiki",
+      "description": "Ballistic exe is an action-focused combat experience centered around ballistic mechanics, tactical movement, and intense battles. Explore gameplay guides, weapons, mechanics, and updates.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "Combat Guides",
+        "Weapons Database",
+        "Tactical Movement",
+        "Mechanics & Updates"
       ],
       "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
-      "tertiaryCta": "Active Codes",
-      "videoLabel": "Official media"
+      "secondaryCta": "Weapons Overview",
+      "tertiaryCta": "Steam Store",
+      "videoLabel": "Official Reveal Trailer"
     },
     "updates": {
       "title": "Latest Updates",
@@ -342,10 +342,10 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master My Seafood Stand?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
+      "title": "Ready to Master Ballistic exe?",
+      "description": "From weapon recoil mastery to advanced tactical combat strategies, our community wiki has you covered with up-to-date guides.",
       "primary": "Read the Beginner Guide",
-      "secondary": "Play on Roblox"
+      "secondary": "Play on Steam"
     }
   },
   "bosses": {
@@ -379,21 +379,21 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "Ballistic exe Wiki",
+    "about": "Ballistic exe Wiki is an independent fan-built guide hub covering weapon mechanics, combat guides, tactical movement, and essential game knowledge for players.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play My Seafood Stand",
-    "officialDiscord": "Official Discord",
-    "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
+    "copyright": "2026 Ballistic exe Wiki. Not affiliated with game creators or Steam.",
+    "description": "Fast-paced ballistic action combat experience with precision weapons and deep tactics.",
+    "playGame": "Play on Steam",
+    "officialDiscord": "Steam Community",
+    "officialYoutube": "Official Trailer",
+    "vvBuilder": "Weapons Guide",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "raceGuides": "Combat Guides",
+    "bossGuides": "Weapons Database",
+    "buildGuide": "Tactics Guide",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
