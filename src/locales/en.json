@@ -9,8 +9,8 @@
   "nav": {},
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Ballistic exe Wiki — Weapons, Ballistics & Tactical Combat Guides",
+      "description": "Comprehensive Ballistic exe wiki covering weapons, attachments, ballistics physics, controls, recoil compensation, and demo guides."
     },
     "hero": {
       "eyebrow": "Fast-Paced Ballistic Action Game",
@@ -34,27 +34,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your Ballistic exe Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Master core ballistics, handling mechanics, and target lead fundamentals before entering competitive arena combat."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Kinetic Movement Guide",
+          "description": "Learn slide canceling, momentum hopping, and counter-strafing techniques to preserve speed and avoid incoming fire."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Recoil & Bloom Control",
+          "description": "Understand bullet drag, trajectory arc drop-off, and burst cadence strategies to keep weapon spray patterns tight."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Controls & Keybinds Setup",
+          "description": "Optimize PC keybindings, mouse sensitivity, and sprint-slide interactions for rapid input chains during skirmishes."
         }
       ]
     },
@@ -62,237 +62,253 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Kinetic Movement",
+        "Recoil Control",
+        "Ballistics Physics",
+        "Controls Setup"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Essential combat physics, weapon handling, and arena survival tips for new players.",
+          "href": "/guide/ballistic-exe-game"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "Controls",
+          "title": "Controls & Keybinds",
+          "description": "Full keyboard and mouse layout, sensitivity recommendations, and movement bindings.",
+          "href": "/controls/ballistic-exe-controls"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Mechanics",
+          "title": "Combat Mechanics & Tips",
+          "description": "Master kinetic momentum, slide-jumping, and recoil compensation.",
+          "href": "/mechanics/ballistic-exe-tips"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Demo",
+          "title": "Demo Setup & Guide",
+          "description": "Trial build installation, system requirements, and vertical slice benchmark testing.",
+          "href": "/guide/ballistic-exe-demo"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is Ballistic exe?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Ballistic exe is a high-intensity indie tactical action shooter built around realistic projectile physics, momentum-driven movement, and surgical shot placement. Moving away from traditional hitscan mechanics, the game simulates dedicated bullet mass, drag coefficients, trajectory drop, and material penetration.",
+        "Whether you are optimizing keybinds for slide-jumping, mastering recoil compensation across multiple weapon classes, or fine-tuning weapon attachments, our wiki provides verified breakdowns, technical stats, and tactical combat guides."
       ],
       "stats": [
         {
-          "label": "Developer",
-          "value": "Midnight Continent"
-        },
-        {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "PC / Steam"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Tactical FPS"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Engine",
+          "value": "Custom 3D"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Physics",
+          "value": "True Ballistics"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Movement",
+          "value": "Kinetic Momentum"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Trial Build",
+          "value": "Demo Available"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore Ballistic exe Wiki",
+      "description": "Master high-speed tactical combat with comprehensive weapon guides, ballistics data, keybind optimizations, and system walkthroughs.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "Ballistic exe Beginner Guide",
+          "description": "Step-by-step starter walkthrough covering baseline physics, target leading, and essential arena movement fundamentals.",
+          "href": "/guide/ballistic-exe-game",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Calibrate mouse sensitivity and configure primary sprint-slide keybindings"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Learn projectile lead calculations rather than aiming with hitscan assumptions"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Chain slides into micro-hops to preserve kinetic momentum during rotations"
+            },
+            {
+              "label": "4",
+              "detail": "Fire in 3-to-4 round bursts to reset horizontal recoil and bloom spread"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Ballistic exe Weapons Guide",
+          "description": "Complete firearm roster categorized by effective combat range, muzzle velocity, and ballistic penetration ratings.",
+          "href": "/mechanics/ballistic-exe-gameplay",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "SMGs",
+              "detail": "High fire rate and fast handling for close-quarters flanking"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Rifles",
+              "detail": "Versatile mid-range stopping power with steady burst velocity"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Marksman",
+              "detail": "High-velocity precision platforms for holding long sightlines"
+            },
+            {
+              "label": "Shotguns",
+              "detail": "Point-blank stopping force for securing tight room chokepoints"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
+          "name": "Ballistic exe Attachments Guide",
+          "description": "Tactical attachments tier evaluation optimizing recoil stabilization, ADS aim speed, and bullet muzzle velocity.",
+          "href": "/controls/ballistic-exe-settings",
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "S",
+              "detail": "Compensators & Extended Barrels — Peak recoil reduction & velocity"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "A",
+              "detail": "Angled Grips & Holosights — Rapid ADS acquisition & stability"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "B",
+              "detail": "Tactical Stocks & Suppressors — Moderate handling & concealment"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "C",
+              "detail": "Basic Lasers & Flash Hiders — Minimal baseline improvements"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Ballistic exe Ammo Guide",
+          "description": "Ammunition caliber profiles detailing drag coefficients, armor penetration levels, and damage falloff thresholds.",
+          "href": "/mechanics/ballistic-exe-counter",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "9x19mm",
+              "detail": "Subsonic velocity (360 m/s), high fire rate, Class 1-2 armor penetration"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "5.56x45",
+              "detail": "Intermediate velocity (850 m/s), low drag, Class 3 armor penetration"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "7.62x51",
+              "detail": "Heavy velocity (920 m/s), superior wall penetration, Class 4 armor piercing"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Ballistic exe Ballistics Guide",
+          "description": "In-depth physics breakdown of projectile trajectory, gravity drop, environmental drag, and wall penetration.",
+          "href": "/mechanics/ballistic-exe-tips",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Drag Arc",
+              "detail": "Velocity drops over distance requiring vertical target lead"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Armor Pen",
+              "detail": "Rounds penetrate sheet metal and dry wood with damage falloff"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Inertia",
+              "detail": "Firing while moving amplifies spread bloom; counter-strafe to shoot"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Ballistic exe Controls Guide",
+          "description": "Complete input bindings and key shortcuts for standard movement, sprint-sliding, combat utilities, and weapon handling.",
+          "href": "/controls/ballistic-exe-controls",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Shift+Ctrl",
+              "detail": "Sustained sprint into low crouch slide to clear tight combat lanes"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Spacebar",
+              "detail": "Airborne vertical mantle and momentum jump preservation"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "R / RMB",
+              "detail": "Tactical magazine reload and precision ADS alternate sight view"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Ballistic exe Demo Guide",
+          "description": "Installation setup, hardware specifications, and trial content available in the playable demonstration version.",
+          "href": "/guide/ballistic-exe-demo",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Setup",
+              "detail": "Stand-alone executable installation with custom keybind saving"
+            },
+            {
+              "label": "Weapons",
+              "detail": "Core weapon archetypes available across target practice ranges"
+            },
+            {
+              "label": "Specs",
+              "detail": "Optimized DirectX 11/12 pipeline requiring 8 GB RAM and dedicated GPU"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Ballistic exe Updates Guide",
+          "description": "Patch notes, engine optimizations, roadmap releases, and community announcements from official channels.",
+          "href": "/guide/ballistic-exe-steam",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "v1.2.0",
+              "detail": "Refined projectile netcode, sub-frame input polling, and recoil adjustments"
+            },
+            {
+              "label": "v1.1.4",
+              "detail": "DirectX runtime optimization, reduced asset streaming stutter on SSDs"
+            },
+            {
+              "label": "v1.0.8",
+              "detail": "Added keybind customization profiles and high-refresh display support"
             }
           ]
         }
@@ -300,27 +316,27 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "description": "Quick answers to common questions about Ballistic exe gameplay, mechanics, and setup.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Ballistic exe?",
+          "answer": "Ballistic exe is a fast-paced indie tactical shooter focusing on realistic projectile physics, momentum-driven kinetic movement, and precise weapon handling instead of hitscan arcade combat."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How does the ballistics system work in Ballistic exe?",
+          "answer": "Every bullet in Ballistic exe features dedicated projectile mass, muzzle velocity, drag decay, and material penetration. Over long distances, players must lead targets and account for gravity arc drop."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Where can I download and play Ballistic exe?",
+          "answer": "You can download the Ballistic exe demo and access full game release details through official Steam and indie developer distribution channels."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "What are the recommended PC settings for Ballistic exe?",
+          "answer": "For optimal input response and smooth framerates in Ballistic exe, running an Intel i5 / Ryzen 5 processor, 16 GB RAM, and a GTX 1060 / RTX 2060 GPU on an SSD with high-refresh display settings is recommended."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Does Ballistic exe support custom keybindings and controllers?",
+          "answer": "Yes, Ballistic exe features rebindable keyboard and mouse layouts for sprint, crouch-slide, and combat utilities, alongside gamepad mapping for standard twin-stick controller setups."
         }
       ]
     },
@@ -337,7 +353,7 @@
     "activeCodes": "Active Codes",
     "updated": "Updated",
     "viewAllCodes": "View all codes",
-    "playOnRoblox": "Play on Roblox",
+    "playOnRoblox": "Play Now",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
     "nextSteps": "Next Steps",
